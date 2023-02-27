@@ -1,6 +1,6 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigLog)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigLog)(https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigLog&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigLog)
 
 <!--
 **GrigLog/GrigLog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
