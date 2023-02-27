@@ -1,2 +1,2 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigLog&theme=tokyonight)
-![Used languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigLog&layout=compact&exclude_repo=thaumcraft-6-source-code&langs_count=10&theme=tokyonight)
+![Used languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=GrigLog&layout=compact&exclude_repo=Thaumcraft-6-Source-Code&langs_count=10&theme=tokyonight)
