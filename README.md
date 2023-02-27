@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigLog)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GrigLog&theme=tokyonight)
 ![Used languages](https://github-readme-stats.vercel.app/api/top-langs?username=GrigLog&theme=tokyonight)
 
 <!--
